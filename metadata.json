@@ -1,0 +1,8 @@
+{
+  "name": "Input Data Konsumen",
+  "description": "Aplikasi mobile Expo (React Native) input data konsumen & pinjaman, dashboard performa grafik bulanan, laporan harian, serta ekspor ke Excel (.xlsx)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
